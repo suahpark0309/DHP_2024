@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="ko">
 <head>
   <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
@@ -18,44 +17,44 @@
   font-style:normal;
  }
     
-    body {
+  body {
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
       background-color: #ffffff;
     }
 
-    header {
+  header {
       background-color: #000000;
       color: white;
       padding: 30px 20px;
       text-align: center;
     }
 
-    header h1 {
+  header h1 {
       margin: 0;
       font-size: 2.5em;
     }
 
-    header p {
+  header p {
       font-size: 1.2em;
       margin-top: 10px;
     }
 
-    section {
+  section {
       padding: 40px 20px;
       max-width: 1300px;
       margin: auto;
     }
 
-    .members, .gallery {
+  .members, .gallery {
       display: flex;
       flex-wrap: wrap;
       gap: 20px;
       justify-content: center;
     }
 
-    .member, .gallery img {
+  .member, .gallery img {
       background: rgb(0, 0, 0);
       border-radius: 10px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -64,13 +63,13 @@
       width: 180px;
     }
 
-    .gallery img {
+  .gallery img {
       width: 100%;
       height: auto;
       padding: 0;
     }
 
-    .image, .gallery img {
+   .image, .gallery img {
       background: rgb(0, 0, 0);
       border-radius: 10px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.795);
@@ -80,7 +79,7 @@
       width: 1200px;
     }
 
-    footer {
+  footer {
       background-color: #000000;
       ;
       color: white;
@@ -89,7 +88,7 @@
       margin-top: 40px;
     }
 
-    a {
+   a {
       color: #ffffff;
       text-decoration: none;
     }
