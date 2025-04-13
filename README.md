@@ -90,7 +90,7 @@ a {
   <div class="playfair-display-uniquifier">
   <h1><b>MOBYDICKS</b></h1>
   <p>50주년을 맞이한 부경대학교 밴드동아리</p>
-  
+  </div>
 </header>
 
 <section>
@@ -110,8 +110,6 @@ a {
     </div>
   <br>
 
-  
-  </div>
 </section>
 
 
@@ -159,7 +157,7 @@ a {
     <p><h4><font color = "white">1학기 개강전 단과대 별로 신입생들을 모아 하는 행사인 새내기 문화제에서 동아리 특별공연을 부탁받아서 하게된 공연모습입니다.</font></h4></p> 
   </div>
   <br>
-  </div>
+
 </section>
 
 <footer>
